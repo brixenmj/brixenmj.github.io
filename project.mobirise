@@ -100,7 +100,7 @@
               }
             },
             ".section-text DIV": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#45f53b"
             }
           },
