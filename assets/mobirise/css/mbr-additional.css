@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700);
 
 
 
@@ -35,7 +36,7 @@ body {
   font-size: 6.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -50,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -655,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1378,6 +1379,34 @@ body {
 }
 .cid-qQqYLQTp1i H1 {
   color: #ffffff;
+}
+.cid-qR0LLro4Gf {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qR0LLro4Gf .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qR0LLro4Gf .section-text {
+  padding: 2rem 0;
+  color: #45f53b;
+}
+.cid-qR0LLro4Gf .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qR0LLro4Gf .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qR0LLro4Gf .section-text DIV {
+  text-align: left;
+  color: #45f53b;
 }
 .cid-qQrgU1sDk3 {
   padding-top: 15px;
