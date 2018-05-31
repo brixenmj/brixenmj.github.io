@@ -10,10 +10,10 @@
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#1198c6",
-        "secondaryColor": "#de33ff",
+        "secondaryColor": "#e147ff",
         "successColor": "#f9f295",
         "infoColor": "#cfcece",
-        "warningColor": "#d7f53b",
+        "warningColor": "#dbf552",
         "dangerColor": "#e4d295",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
@@ -31,13 +31,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#dbf552",
+        "#e147ff",
         "#14d20a",
         "#1198c6",
         "#45f53b",
         "#de33ff",
-        "#f5c03b",
-        "#cfcece",
-        "#d7f53b"
+        "#f5c03b"
       ]
     },
     "path": "@PROJECT_PATH@",
